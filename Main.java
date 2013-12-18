@@ -3,4 +3,8 @@ public class Main {
         System.out.println("I'm under version control!");
 
     }
+    
+    public void feature2() {
+        // code
+    }
 }
