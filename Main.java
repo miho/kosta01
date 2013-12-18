@@ -4,7 +4,12 @@ public class Main {
 
     }
     
+
     public void feature2() {
+    
+    }
+
+    public void feature1() {
         // code
     }
 }
