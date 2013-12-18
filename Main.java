@@ -9,7 +9,7 @@ public class Main {
         // change  
     }
 
-    public void feature1() {
+    public void feature4() {
         // code
     }
 }
