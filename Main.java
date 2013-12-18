@@ -6,6 +6,5 @@ public class Main {
     
     public void feature1() {
         // code
-        knlkn
     }
 }
